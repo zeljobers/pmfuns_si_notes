@@ -679,12 +679,10 @@
   - Checklist operacija - 7 koraka
     - opis operacija
     - klas dijag. sa operacijama ugradjenim
-  - LALA je pojam koji su sebi vojvodjani udelili, da bi prekrili to da su sve nas nemci zvali PACOVIMA.
   - REZIME!!! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     - bitno : klase iz analize dokumenata, UI, atributima definisemo i prosirivanje nasledjivanjem i operacijama
     - otkud onome ko je ovo sto je ovo pravio, BAS OVO?! - evo ga zasto.
     - bar 1x jos.
-- pisao sam -- pis pauza 
 - MUSTRE - Design Patterns u OOA
   - OOA mustre
   - mora objasnjenje dodatno gledanje koje protrcava, covek
@@ -707,8 +705,6 @@
        - `*..*`
        bravo. celovito. i z ovoga dela. 
 - problem u pasusu i jednostavan prepoznavanje patterna.
-  - po osobini paterna moze da se objasni, ali ne po imenu. <3
-- volimo zorana
 ---
 # 9. nedelja - za vreme vezbi
 ## Tema 15
