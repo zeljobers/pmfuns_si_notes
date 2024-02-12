@@ -218,7 +218,7 @@ CASE (Computer Assitent System E)
 - 1 - do nekle reci ce asistentkinja koje teme, kada(u naredne dve nedelje)?
   - online, ili uzivo na osnovu preporuka sporednih lica
 
-## Tema 4 - nije tema za prvi test - obnova - NOTACIJE DOKUMENATA! [**OVO SAM ZESCE PROTRCAO i tako se ujebao vrv**]
+## Tema 4 - nije tema za prvi test - obnova - NOTACIJE DOKUMENATA! [**OVO SAM PROTRCAO**]
 - nacini da opises softver
 - 1:07:00 drugi video - BITNO ! celi pristup notacija!
 - osnovni koncepti 
