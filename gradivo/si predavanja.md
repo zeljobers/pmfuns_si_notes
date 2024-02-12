@@ -585,7 +585,7 @@
         - pre mu spada u dinamicki, ali bi metno u oba 
   - 27. slajd - use -case je vise staticki
   - ako gledamo ovo sve po fazama
-  - 29. slajd - PALAMUDJENJA - jasno sa svim notacijama
+  - 29. slajd - PROŽETO POJAŠNJENJE - jasno sa svim notacijama
   - primer statickog modela UML - organizacija seminara
     - a i DFD 
   - relacija izmedju 2 nacina produktnog modela za requierments specifikacija
